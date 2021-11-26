@@ -188,7 +188,7 @@ namespace InventoryKamera
                 {
 
                     // Get Screen Location and Size
-                    Navigation.Initialize("GenshinImpact");
+                    Navigation.Initialize("YuanShen");
 
                     // Add navigation delay
                     int delay = ScannerDelayValue(delayLevel);
